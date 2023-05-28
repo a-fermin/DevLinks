@@ -223,3 +223,16 @@ footer {
     }
 
 }
+
+@keyframes slide-back {
+
+    from {
+        left: 50%;
+    }
+    to {
+
+        left: 0;
+
+    }
+
+}
