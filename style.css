@@ -106,6 +106,8 @@ body * {
     animation: slide-in 0.5s forwards;
 }
 
+switch button:hover
+
 #switch span {
 
     display: block;
