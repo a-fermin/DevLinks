@@ -102,9 +102,7 @@ body * {
 }
 
 .light #switch button {
-
-    right: 0;
-    left: initial;
+    animation: slide-in 0.5s;
 }
 
 #switch span {
@@ -217,7 +215,7 @@ footer {
 
     from {
         left: 0;
-        
+
     }
     to {
 
