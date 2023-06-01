@@ -2,13 +2,13 @@
 
 <p align="center">Desenvolvimento de uma página WEB.</p>
 
- Tecnologias 
- As tecnologias usadas nesse projeto foram: 
- - HTML e CSS
- - JavaScript
- - Git e GithHub
+<h2>Tecnologias</h2>
+As tecnologias usadas nesse projeto foram:
 
- Projeto
- O DevLinks é um agregador de links para usar como cartão de visitas online.
- Agradeço a visita!
- 
+- HTML e CSS
+- JavaScript
+- Git e GithHub
+
+<h2>Projeto</h2>
+O DevLinks é um agregador de links para usar como cartão de visitas online.
+Agradeço a visita!
