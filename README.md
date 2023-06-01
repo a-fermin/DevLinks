@@ -5,8 +5,8 @@
  Tecnologias 
  As tecnologias usadas nesse projeto foram: 
  - HTML e CSS
- -JavaScript
- -Git e GithHub
+ - JavaScript
+ - Git e GithHub
 
  Projeto
  O DevLinks é um agregador de links para usar como cartão de visitas online.
